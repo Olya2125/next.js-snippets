@@ -7,7 +7,7 @@
     "build": "next build prisma generate && <actual-build-command>",
     "start": "next start",
     "lint": "next lint",
-    "postinstall": "prisma generate",
+    "postinstall": "prisma generate"
       },
   "dependencies": {
     "@monaco-editor/react": "^4.6.0",
